@@ -28,8 +28,11 @@ UI Dislay.
 <img width="387" alt="GUI Calculator" src="https://user-images.githubusercontent.com/124969526/219829677-16ac5c56-02ee-4c1d-ac3a-e2e042d49187.png">
 
 ## CLI 
-Change Calculator. 
-Self Explanatory. 
+Monetary Change Calculator. 
+Enter Amount for the Item, 
+Enter Amount Procured for It.
+Calculate Change In 2023 Australian Currency. 
+
  
 ## Single Line Calculator. 
 Aim was to use a single line of code, to create a simple calculator. 
