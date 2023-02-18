@@ -31,5 +31,6 @@ UI Dislay.
 Change Calculator. 
 Self Explanatory. 
 
-
+## Single Line Calculator. 
+Aim was to use a single line of code, to create a simple calculator. 
 
